@@ -15,7 +15,7 @@ The following is a set of guidelines for contributing to ghProfileSearch and its
   * [Design Decisions](#)
 
 [How Can I Contribute?](#)
-  * [Reporting Bugs](
+  * [Reporting Bugs](#)
   * [Suggesting Enhancements](#)
   * [Your First Code Contribution](#)
   * [Pull Requests](#)
